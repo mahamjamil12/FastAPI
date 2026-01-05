@@ -16,3 +16,4 @@ This project demonstrates CRUD operations, database integration, and secure user
 - Automatic API documentation (Swagger UI)
 
 
+<img width="1685" height="935" alt="image" src="https://github.com/user-attachments/assets/81223be7-eba0-4161-9773-cbc9536ffe01" />
