@@ -14,3 +14,5 @@ This project demonstrates CRUD operations, database integration, and secure user
 - User creation with hashed passwords (bcrypt)
 - Dependency injection for database sessions
 - Automatic API documentation (Swagger UI)
+
+
